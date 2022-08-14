@@ -8,7 +8,7 @@ Get your discord token (https://www.androidauthority.com/get-discord-token-31499
 
 Right click main.py and edit it as notepad
 
-Replace "TOKEN" with your actual discord token for example dont remove the quotation marks.
+Replace "TOKEN" with your actual discord token. Don't remove the quotation marks.
 
 Double click main.py
 
