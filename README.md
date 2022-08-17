@@ -11,7 +11,7 @@ https://solo.to/buxh
 ![](https://raw.githubusercontent.com/buxh/Discord-Streaming-Status/main/images/4.png)
 
 ## How to use
-Install Install [python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe). Make sure you install python to [path](https://raw.githubusercontent.com/buxh/Discord-Streaming-Status/main/images/0_7nOyowsPsGI19pZT.png).
+Install [python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe). Make sure you install python to [path](https://raw.githubusercontent.com/buxh/Discord-Streaming-Status/main/images/0_7nOyowsPsGI19pZT.png).
 
 Install requirement "discord" using `pip install discord`. If you need help click [this](https://phoenixnap.com/kb/install-pip-windows).
 
