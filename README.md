@@ -35,4 +35,4 @@ Keep the py file open in the background so your streaming status doesn't expire.
 
 ## Help
 
-If you are in need of help open an issue or contact me on discord: `paid#1337`.
+If you are in need of help open an issue or contact me on discord: `fraud#1337`.
