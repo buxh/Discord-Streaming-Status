@@ -29,7 +29,7 @@ Save the file.
 
 Double click `run.bat`.
 
-Go to any text channel and type `$stream` followed by your custom stream message for expample `$stream hello`, this will stream the word "hello".
+Go to any text channel and type `$stream` followed by your custom stream message for example `$stream hello`, this will stream the word "hello".
 
 Keep the py file open in the background so your streaming status doesn't expire.
 
