@@ -1,5 +1,5 @@
 # Discord Streaming Status
-https://solo.to/buxh
+https://e-z.bio/xx
 
 ## Preview 
 ![](https://raw.githubusercontent.com/buxh/Discord-Streaming-Status/main/images/1.png)
